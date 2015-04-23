@@ -1,0 +1,21 @@
+1     //Load Acc
+20
+14   //Copy to X
+26   //Dec X
+10   //ADD AC+X
+16   //Copy to Y
+15   //Copy in AC from X
+22   //Jump if not zero
+11
+21   //Jump if zero
+14   //copy to X
+17   //copy from Y
+20   //Jump to add
+3
+17   //copy from Y
+9    //Output
+1
+50  //End
+
+.1000
+30
